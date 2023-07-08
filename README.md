@@ -1,7 +1,7 @@
 # GraphImplementation
 Python Implementation of Graph and Directed Graph. Includes Edge/Adjacency List and Adjacency Matrix versions
 
-prerequesits:
+prerequisites:
 * Python 3.8 (https://www.python.org/downloads/)
 
 Contains:
